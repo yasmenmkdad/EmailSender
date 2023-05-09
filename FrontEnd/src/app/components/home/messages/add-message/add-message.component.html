@@ -1,0 +1,38 @@
+<form [formGroup]="EmailForm" (ngSubmit)="onSubmit(EmailForm)">
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label">subject : </label>
+    <div class="col-sm-10">
+      <input
+        type="text"
+        [class]="
+          submitted && !EmailForm.controls['subject'].valid
+            ? 'is-invalid'
+            : null
+        "
+        class="form-control"
+        placeholder="Enter you subject .."
+        formControlName="subject"
+        class="form-control"
+      />
+    </div>
+  </div>
+  <div class="form-group row">
+    <label class="col-sm-2 col-form-label">Message : </label>
+    <div class="col-sm-10">
+      <textarea
+        [class]="
+          submitted && !EmailForm.controls['message'].valid
+            ? 'is-invalid'
+            : null
+        "
+        class="form-control"
+        formControlName="message"
+      ></textarea>
+    </div>
+  </div>
+  <div class="form-group">
+    <button class="btn btn-primary btn-lg float-right" type="submit">
+      Add
+    </button>
+  </div>
+</form>
