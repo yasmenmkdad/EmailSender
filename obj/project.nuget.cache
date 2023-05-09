@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yo42x0rJar7TzmXt+pWP+i4wl3Y3lmTa1MdqqOznusMS4zDDDftIvwbdcS6VinQz2VdyEkz/gYAnCr9T8yzaHw==",
+  "dgSpecHash": "N3GPfonHl4lLQeTANm6Ii5v++wVmFDtVH72LGlil/oU0T4psgJzKddv5K5atuaqZj+nQ99g7wDbVwwVRB7JvHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\New folder (2)\\EmailSender\\EmailSender.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\New folder (2)\\mailSender\\EmailSender\\EmailSender.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

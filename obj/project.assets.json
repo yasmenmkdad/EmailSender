@@ -3624,11 +3624,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\New folder (2)\\EmailSender\\EmailSender.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\New folder (2)\\mailSender\\EmailSender\\EmailSender.csproj",
       "projectName": "EmailSender",
-      "projectPath": "C:\\Users\\USER\\Desktop\\New folder (2)\\EmailSender\\EmailSender.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\New folder (2)\\mailSender\\EmailSender\\EmailSender.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\New folder (2)\\EmailSender\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\New folder (2)\\mailSender\\EmailSender\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
